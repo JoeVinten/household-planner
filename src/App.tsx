@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <nav>
         <ul>
           <li>
@@ -11,6 +11,7 @@ function App() {
           <li>
             <Link to="/chores">chores</Link>
           </li>
+          sd xcfv
           <li>
             <Link to="/shoppinglist">shoppinglist</Link>
           </li>
